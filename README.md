@@ -1,0 +1,2 @@
+- Hola! Soy @JUANRIOSG1
+- Actualmente estoy estudiando Desarrollador de aplicaciones multiplataforma
